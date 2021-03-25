@@ -33,6 +33,8 @@ karachan.org###pc54788
 karachan.org###pc54789
 karachan.org###pc54790
 karachan.org###pc54793 
+karachan.org###pc54875
+karachan.org###pc54877
 karachan.org###pc54794
 karachan.org###pc54795
 karachan.org###pc54771
